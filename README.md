@@ -1,2 +1,3 @@
-# Hillary
-Rutgers Data Science Bootcamp October 2018
+# Excel_And_VBA
+
+Organization and Analysis of Kickstarter projects.
