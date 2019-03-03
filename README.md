@@ -1,3 +1,3 @@
 # Excel_And_VBA
 
-Organization and Analysis of Kickstarter projects.
+Organization and analysis of a database of four thousand Kickstarter projects in order to uncover any hidden trends.
